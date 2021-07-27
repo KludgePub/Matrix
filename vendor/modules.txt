@@ -1,0 +1,14 @@
+# github.com/LinMAD/Snap v0.0.0-20210629211917-b8798ec4699d
+## explicit
+github.com/LinMAD/Snap/engine
+github.com/LinMAD/Snap/engine/core
+github.com/LinMAD/Snap/engine/entity
+github.com/LinMAD/Snap/engine/graphics
+github.com/LinMAD/Snap/engine/graphics/data
+github.com/LinMAD/Snap/engine/graphics/factory
+github.com/LinMAD/Snap/engine/logger
+github.com/LinMAD/Snap/engine/platform
+# github.com/veandco/go-sdl2 v0.4.8
+github.com/veandco/go-sdl2/img
+github.com/veandco/go-sdl2/sdl
+github.com/veandco/go-sdl2/ttf

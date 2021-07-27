@@ -1,0 +1,4 @@
+github.com/LinMAD/Snap v0.0.0-20210629211917-b8798ec4699d h1:f6oWLsMw3+5leKpsiBySJcNnTKAlb3OOYodHwxh1BMU=
+github.com/LinMAD/Snap v0.0.0-20210629211917-b8798ec4699d/go.mod h1:pPZDjokwMN0C2z0jhuwDAeWXWDise76PhU47fSHNIfs=
+github.com/veandco/go-sdl2 v0.4.8 h1:A26KeX6R1CGt/BQGEov6oxYmVGMMEWDVqTvK1tXvahE=
+github.com/veandco/go-sdl2 v0.4.8/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
