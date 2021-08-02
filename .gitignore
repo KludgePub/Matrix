@@ -17,8 +17,5 @@
 # IDE
 .idea
 
-# Must be implemented in implementation (client app)
-main.go
-
 # Binary
 Matrix

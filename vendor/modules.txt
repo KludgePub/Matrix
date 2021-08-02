@@ -1,4 +1,4 @@
-# github.com/LinMAD/Snap v0.0.0-20210629211917-b8798ec4699d
+# github.com/LinMAD/Snap v0.0.1
 ## explicit
 github.com/LinMAD/Snap/engine
 github.com/LinMAD/Snap/engine/core

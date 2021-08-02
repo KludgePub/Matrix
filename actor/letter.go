@@ -9,7 +9,6 @@ import (
 
 // MatrixLetter which will be displayed on screen
 type MatrixLetter struct {
-	// Text object
 	Text  *entity.TextObject
 	color *entity.Color
 
@@ -17,34 +16,23 @@ type MatrixLetter struct {
 	maxYPos    int32
 }
 
+// NewMatrixLetter to be shown on the screen
 func NewMatrixLetter(maxY int32, t *entity.TextObject) *MatrixLetter {
-	ml := &MatrixLetter{
+	return &MatrixLetter{
 		Text:       t,
 		color:      t.DrawableInformation.Color,
 		seededRand: rand.New(rand.NewSource(time.Now().UnixNano())),
 		maxYPos:    maxY,
 	}
-
-	// TODO Lecture: Tip
-
-	return ml
 }
 
 // OnUpdate update text
 func (ml *MatrixLetter) OnUpdate() {
 
-	ml.addEffectLetterDrop()
-	ml.addEffectColorTransition()
+	// TODO Implement rainfall effect
+	// TODO Implement color transition
 
 	ml.Text.OnUpdate()
-}
-
-func (ml *MatrixLetter) addEffectLetterDrop() {
-	// TODO Lecture: Tip
-}
-
-func (ml *MatrixLetter) addEffectColorTransition() {
-	// TODO Lecture: Tip
 }
 
 // GetDrawableInformation about object
