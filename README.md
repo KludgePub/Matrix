@@ -29,10 +29,10 @@ If simplify it, implement logic in `OnUpdate` method:
 Before building by simple `go build` you need have `SDL2` library with needed dependencies.
 
 Debian and friends: 
-* ```apt install libsdl2{,-image,-gfx}-dev```
+* ```apt install libsdl2{,-image,-ttf,-gfx}-dev```
 
 Darwin:
-* ```brew install sdl2{,_image,_gfx} pkg-config```
+* ```brew install sdl2{,_image,_ttf,_gfx} pkg-config```
 
 ___
 > Tested only on Debian 10 x64
