@@ -1,4 +1,4 @@
-module github.com/LinMAD/Matrix
+module github.com/KludgePub/Matrix
 
 go 1.16
 

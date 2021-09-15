@@ -4,7 +4,7 @@ import (
 	"github.com/LinMAD/Snap/engine"
 	"github.com/LinMAD/Snap/engine/platform"
 
-	"github.com/LinMAD/Matrix/factory"
+	"github.com/KludgePub/Matrix/factory"
 )
 
 func main() {

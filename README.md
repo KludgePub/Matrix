@@ -34,6 +34,5 @@ Debian and friends:
 Darwin:
 * ```brew install sdl2{,_image,_ttf,_gfx} pkg-config```
 
+###### When code will be compiled it may say about some deprecated warnings for Mac
 ___
-> Tested only on Debian 10 x64
-

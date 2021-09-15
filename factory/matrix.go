@@ -6,7 +6,7 @@ import (
 	"github.com/LinMAD/Snap/engine/graphics/data"
 	"github.com/LinMAD/Snap/engine/platform"
 
-	"github.com/LinMAD/Matrix/actor"
+	"github.com/KludgePub/Matrix/actor"
 )
 
 const fontPath = "assets/matrix.ttf"

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/LinMAD/Matrix/actor"
+	"github.com/KludgePub/Matrix/actor"
 )
 
 var letterRunes []rune
